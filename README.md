@@ -1,4 +1,4 @@
-**End-to-End Data Analytics Portfolio Project**
+### End-to-End Data Analytics Portfolio Project
 
 Analyzing 3,900 customer transactions to uncover shopping patterns, customer segments, product preferences, and subscription insights.
 
